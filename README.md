@@ -250,4 +250,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ---
 
-⭐ N'hésitez pas à donner une étoile si ce projet vous a aidé !
+<img width="759" height="360" alt="Screenshot 2025-10-21 233703" src="https://github.com/user-attachments/assets/57758ecf-e487-4e30-89d1-59fdba9dc92a" />
+<img width="198" height="201" alt="Screenshot 2025-10-21 233624" src="https://github.com/user-attachments/assets/fd196b72-8613-447c-ae73-d6f143363080" />
+
+
