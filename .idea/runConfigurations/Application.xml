@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration default="false" name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+  <module name="TP5" />
+  <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Application" />
+  <option name="ACTIVE_PROFILES" />
+  <option name="ENABLE_AUTO_CONFIGURATION" value="true" />
+  <option name="ENFORCE_LOGGING_CONFIG" value="false" />
+  <option name="ENABLE_DEBUG" value="false" />
+  <option name="PROGRAM_PARAMETERS" />
+  <option name="VM_PARAMETERS" />
+  <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+  <envs>
+    <env name="JAVA_HOME" value="C:\Users\ghali\OneDrive\Desktop\TP5\jdk-17.0.2" />
+  </envs>
+  <method v="2">
+    <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="compile" />
+  </method>
+</configuration>
